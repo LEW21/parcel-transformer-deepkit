@@ -20,4 +20,4 @@ Also - don’t forget to enable reflection in `tsconfig.json`!
 }
 ```
 
-See the [minimum-example](../minimum-example) in case of problems.
+See the [minimum-example](https://github.com/LEW21/parcel-transformer-deepkit/tree/main/packages/minimum-example) in case of problems.
