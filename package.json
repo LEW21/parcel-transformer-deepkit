@@ -1,0 +1,18 @@
+{
+  "name": "root",
+  "repository": "https://github.com/LEW21/parcel-transformer-deepkit",
+  "author": "Linus Lewandowski <linus@lew21.net>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "typescript": "^5.5.4"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@4.4.0",
+  "devDependencies": {
+    "buffer": "^5.5.0||^6.0.0",
+    "process": "^0.11.10"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "minimum-example",
+  "private": true,
+  "packageManager": "yarn@4.4.0",
+  "source": "src/index.html",
+  "devDependencies": {
+    "@deepkit/type-compiler": "^1.0.1-alpha.150",
+    "@parcel/config-default": "^2.12.0",
+    "@parcel/core": "^2.12.0",
+    "@parcel/plugin": "^2.12.0",
+    "@parcel/source-map": "^2.1.1",
+    "@parcel/ts-utils": "^2.12.0",
+    "parcel": "^2.12.0",
+    "parcel-transformer-deepkit": "workspace:^",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@deepkit/core": "^1.0.1-alpha.147",
+    "@deepkit/type": "^1.0.1-alpha.153"
+  }
+}

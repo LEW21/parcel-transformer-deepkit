@@ -1,0 +1,28 @@
+{
+	"name": "parcel-transformer-deepkit",
+	"version": "0.1.0",
+	"description": "Parcel transformer for TypeScript files with explicit support for Deepkit Runtime Types",
+	"repository": "https://github.com/LEW21/parcel-transformer-deepkit",
+	"author": "Linus Lewandowski <linus@lew21.net>",
+	"license": "MIT",
+	"main": "./lib/index.js",
+	"source": "./src/index.ts",
+	"engines": {
+		"node": ">= 16.0.0",
+		"parcel": "^2.12.0"
+	},
+	"peerDependencies": {
+		"@deepkit/type-compiler": "^1.0.1-alpha.150",
+		"@parcel/plugin": "^2.12.0",
+		"@parcel/source-map": "^2.1.1",
+		"@parcel/ts-utils": "^2.12.0",
+		"typescript": "^5.5.4"
+	},
+	"devDependencies": {
+		"@deepkit/type-compiler": "^1.0.1-alpha.150",
+		"@parcel/plugin": "^2.12.0",
+		"@parcel/source-map": "^2.1.1",
+		"@parcel/ts-utils": "^2.12.0",
+		"typescript": "^5.5.4"
+	}
+}

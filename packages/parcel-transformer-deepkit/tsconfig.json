@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"module": "Node16",
+		"moduleResolution": "Node16",
+		"target": "ESNext",
+		"strict": true,
+		"isolatedModules": true,
+		"skipLibCheck": true,
+		"outDir": "lib",
+	},
+}
